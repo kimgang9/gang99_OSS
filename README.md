@@ -1,2 +1,3 @@
 # gang999
-hi im kim
+Dong_a_University
+Oss_Development Class
